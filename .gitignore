@@ -1,0 +1,13 @@
+*.out
+*.outb
+*.ech
+*.lin
+*.sum
+*.exe
+*.dll
+*.so
+vtk*
+*.vtp
+
+
+ua/
