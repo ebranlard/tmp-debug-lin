@@ -13,3 +13,5 @@ vtk*
 ua/
 
 openfast-*
+
+slurm*.log

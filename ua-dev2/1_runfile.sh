@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=dev0
+#SBATCH --job-name=dev2
 #SBATCH --nodes=1
 #SBATCH --time=2-00
 #SBATCH --account=bar
