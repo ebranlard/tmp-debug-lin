@@ -9,7 +9,17 @@
 vtk*
 *.vtp
 
+*-noAD
+*-tmp
+*-debug
 
 ua/
+
+*.csv
+Campbell_*.txt
+
+*.png
+__pycache__
+
 
 openfast-*
