@@ -26,6 +26,8 @@ $openfast iea22_stab_04.fst & sleep 1
 $openfast iea22_stab_05.fst & sleep 1
 $openfast iea22_stab_06.fst & sleep 1
 $openfast iea22_stab_07.fst & sleep 1
+$openfast iea22_stab_08.fst & sleep 1
+$openfast iea22_stab_09.fst & sleep 1
 $openfast iea22_stab_10.fst & sleep 1
 $openfast iea22_stab_11.fst & sleep 1
 $openfast iea22_stab_12.fst & sleep 1
@@ -34,6 +36,8 @@ $openfast iea22_stab_14.fst & sleep 1
 $openfast iea22_stab_15.fst & sleep 1
 $openfast iea22_stab_16.fst & sleep 1
 $openfast iea22_stab_17.fst & sleep 1
+$openfast iea22_stab_18.fst & sleep 1
+$openfast iea22_stab_19.fst & sleep 1
 $openfast iea22_stab_20.fst & sleep 1
 $openfast iea22_stab_21.fst & sleep 1
 $openfast iea22_stab_22.fst 
